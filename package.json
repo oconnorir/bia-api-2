@@ -1,0 +1,22 @@
+{
+  "name": "grocery_list_server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.6",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.9",
+    "path": "^0.12.7",
+    "pug": "^2.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "author": "Erin L. O'Connor",
+  "license": ""
+}
